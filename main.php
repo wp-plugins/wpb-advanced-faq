@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       WPB Advanced FAQ
- * Plugin URI:        http://wpbean.com/wpb-advanced-faq
+ * Plugin URI:        https://wpbean.com/wpb-advanced-faq-probably-the-best-wordpress-faq-plugin/
  * Description:       Just another wordpress plugin
  * Version:           1.0
  * Author:            wpbean
