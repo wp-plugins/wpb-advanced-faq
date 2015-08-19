@@ -18,6 +18,10 @@ It's a very light weight plugin, so your site not going to be slow for this plug
 
 >[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=127)  |  [Support](http://wpbean.com/support/)
 
+### Video Documentation:
+
+https://www.youtube.com/watch?v=F6zhZ9y9uFc&feature=youtu.be
+
 ### Plugin Features
 
 * Two different theme for FAQ.
@@ -45,7 +49,7 @@ Read <a href="http://wordpress.org/plugins/wpb-advanced-faq/installation/">insta
 
 
 
-### Category shortcode example
+### Shortcode example
 
 [wpb_af_faqs theme="flat" post="-1" order="DESC" orderby="date" category="" tags="" close_previous="yes"]
 
