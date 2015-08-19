@@ -2,7 +2,7 @@
 Contributors: wpbean
 Tags: wordpress faq, faq wordpress, faq plugin wordpress, faq wordpress plugin, wordpress faq manager, faq plugin, wordpress plugin faq, faq plugin for wordpress, wp faq plugin, best faq plugin for wordpress, wordpress faqs plugin, wordpress faq plugins, faq wp plugin, faq plugins, faq for wordpress, wordpress faq theme, wordpress faq page, wordpress faqs, faq wordpress theme, wordpress accordion, wordpress accordion plugin, accordion wordpress, wordpress jquery accordion, wordpress jquery accordion plugin, accordion plugin wordpress, accordion wordpress plugin, wordpress plugin accordion
 Requires at least: 3.6
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
