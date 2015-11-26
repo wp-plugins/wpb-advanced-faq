@@ -17,7 +17,7 @@
 .wpb_af_area > li > ul p:last-child {
   margin-bottom: 0;
 }
-.wpb_af_area li {
+.wpb_af_area > li {
   list-style: none;
 }
 .wpb_af_area > li > ul > li {

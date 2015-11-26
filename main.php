@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       WPB Advanced FAQ
- * Plugin URI:        https://wpbean.com/wpb-advanced-faq-probably-the-best-wordpress-faq-plugin/
+ * Plugin URI:        http://wpbean.com/wpb-advanced-faq
  * Description:       Best WordPress FAQ Plugin that with each and every single feature that you need to add FAQ system in your WordPress site. It's a custom post type base FAQ management system. Using this plugin is super easy. Multiple FAQ's form different categories and tags are also possible for this plugin.
  * Version:           1.0
  * Author:            wpbean

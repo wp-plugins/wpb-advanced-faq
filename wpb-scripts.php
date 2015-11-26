@@ -27,6 +27,7 @@ function wpb_af_adding_scripts() {
 	if ( !is_admin() ) {
 		wp_enqueue_script('wpb_af_jquery_cookie', plugins_url('assets/js/jquery.cookie.js', __FILE__),'','1.4.1', true);
 		wp_enqueue_script('wpb_af_navgoco_script', plugins_url('assets/js/jquery.navgoco.min.js', __FILE__),'','1.0', true);
+		wp_enqueue_script('wpb_af_main', plugins_url('assets/js/main.js', __FILE__),'','1.0', true);
 	}
 }
 add_action( 'wp_enqueue_scripts', 'wpb_af_adding_scripts' ); 

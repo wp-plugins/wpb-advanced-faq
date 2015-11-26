@@ -2,7 +2,7 @@
 Contributors: wpbean
 Tags: wordpress faq, faq wordpress, faq plugin wordpress, faq wordpress plugin, wordpress faq manager, faq plugin, wordpress plugin faq, faq plugin for wordpress, wp faq plugin, best faq plugin for wordpress, wordpress faqs plugin, wordpress faq plugins, faq wp plugin, faq plugins, faq for wordpress, wordpress faq theme, wordpress faq page, wordpress faqs, faq wordpress theme, wordpress accordion, wordpress accordion plugin, accordion wordpress, wordpress jquery accordion, wordpress jquery accordion plugin, accordion plugin wordpress, accordion wordpress plugin, wordpress plugin accordion
 Requires at least: 3.6
-Tested up to: 4.3.1
+Tested up to: 4.2.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -16,11 +16,7 @@ Best WordPress FAQ Plugin that with each and every single feature that you need 
 
 It's a very light weight plugin, so your site not going to be slow for this plugin. It's design is mobile responsive and modern flat type user interface.
 
->[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=127)  | [Buy PRO Version](https://wpbean.com/product/wpb-advanced-faq-pro/)  |  [Support](http://wpbean.com/support/)
-
-### Video Documentation:
-
-https://www.youtube.com/watch?v=F6zhZ9y9uFc&feature=youtu.be
+>[DEMO](http://23.227.167.145/wpbean/demo2/?page_id=127)  |  [Support](http://wpbean.com/support/)
 
 ### Plugin Features
 
@@ -36,16 +32,6 @@ https://www.youtube.com/watch?v=F6zhZ9y9uFc&feature=youtu.be
 * Developer friendly & easy to customize.
 
 
-### PRO Features
-
-* FAQ live search system.
-* Pagination system for FAQ.
-* AJAX powered FAQ rating system.
-* Front-end FAQ submission system.
-* Advance FAQ shortcode generator.
-* Powerful FAQ setting panel.
-
-
 Read <a href="http://wordpress.org/plugins/wpb-advanced-faq/installation/">installation</a> for details documentation & shortcode example.
 
 
@@ -59,7 +45,7 @@ Read <a href="http://wordpress.org/plugins/wpb-advanced-faq/installation/">insta
 
 
 
-### Shortcode example
+### Category shortcode example
 
 [wpb_af_faqs theme="flat" post="-1" order="DESC" orderby="date" category="" tags="" close_previous="yes"]
 
@@ -110,6 +96,15 @@ You need to change little bit css code for that.
 = version 1.0 =
 * Initial release
 
+= version 1.01 =
+* Fixed faq content list not showing problem.
+
 
 
 == Upgrade notice ==
+
+= version 1.0 =
+* Initial release
+
+= version 1.01 =
+* Fixed faq content list not showing problem.
